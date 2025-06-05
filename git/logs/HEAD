@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 6c42034a176521d6c371b41f137cfa470179f221 Nicolas Correa <nicolascorrea@Nicolass-MacBook-Pro.local> 1748614171 -0300	commit (initial): first commit
+6c42034a176521d6c371b41f137cfa470179f221 0000000000000000000000000000000000000000 Nicolas Correa <nicolascorrea@Nicolass-MacBook-Pro.local> 1748614171 -0300	Branch: renamed refs/heads/main to refs/heads/main
+6c42034a176521d6c371b41f137cfa470179f221 6c42034a176521d6c371b41f137cfa470179f221 Nicolas Correa <nicolascorrea@Nicolass-MacBook-Pro.local> 1748614171 -0300	Branch: renamed refs/heads/main to refs/heads/main
+6c42034a176521d6c371b41f137cfa470179f221 75a3a1132770eeb289c696bb9588c6f5164789f9 NicoTheDev98 <correanicolas0906@gmail.com> 1748628911 -0300	commit: Add background
+75a3a1132770eeb289c696bb9588c6f5164789f9 6df1e5f8185dfbd346cd6ae91d4f00137315686c NicoTheDev98 <correanicolas0906@gmail.com> 1748886970 -0300	commit: add avatar
+6df1e5f8185dfbd346cd6ae91d4f00137315686c ee8432aea0c4a5da06f1c86437dab130c927c6fb NicoTheDev98 <correanicolas0906@gmail.com> 1749052760 -0300	commit: first commit
+ee8432aea0c4a5da06f1c86437dab130c927c6fb 0000000000000000000000000000000000000000 NicoTheDev98 <correanicolas0906@gmail.com> 1749052780 -0300	Branch: renamed refs/heads/main to refs/heads/main
+ee8432aea0c4a5da06f1c86437dab130c927c6fb ee8432aea0c4a5da06f1c86437dab130c927c6fb NicoTheDev98 <correanicolas0906@gmail.com> 1749052780 -0300	Branch: renamed refs/heads/main to refs/heads/main
+ee8432aea0c4a5da06f1c86437dab130c927c6fb cfd4fc8eb076b9c25f1a39bd9f718fb821037bd9 NicoTheDev98 <correanicolas0906@gmail.com> 1749056777 -0300	commit: add README.md
+cfd4fc8eb076b9c25f1a39bd9f718fb821037bd9 eedc4986a48de711b2ecd64a6ca171c3140bd1d5 NicoTheDev98 <correanicolas0906@gmail.com> 1749057109 -0300	commit: fixed README.md
+eedc4986a48de711b2ecd64a6ca171c3140bd1d5 aa533e8abaeeeda9cb2c1c2e06bf2320d93012bb NicoTheDev98 <correanicolas0906@gmail.com> 1749057377 -0300	commit: fix README
+aa533e8abaeeeda9cb2c1c2e06bf2320d93012bb f893b3bbf4dbbe90570ecf859a8ffe61d49ef2af NicoTheDev98 <correanicolas0906@gmail.com> 1749057773 -0300	commit: adjust container width
+f893b3bbf4dbbe90570ecf859a8ffe61d49ef2af 24168bbea24baad014a2c607fde6b592d62130df NicoTheDev98 <correanicolas0906@gmail.com> 1749058934 -0300	commit: change background based on media queries
+24168bbea24baad014a2c607fde6b592d62130df 6db245af1d465345d830d59e8b56366a24f65512 NicoTheDev98 <correanicolas0906@gmail.com> 1749064606 -0300	commit: final changes to the project

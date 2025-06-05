@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Build/output folders
+bin/
+obj/
+
+# Node, SwiftPM, or other dependencies
+node_modules/
+.packages/
+.build/
+.swiftpm/
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
